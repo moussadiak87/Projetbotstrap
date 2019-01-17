@@ -1,0 +1,48 @@
+.row{
+  font-size: 70%;
+  color: #5c5c5c;
+
+}
+
+.imgWidth{
+  height: 60px;
+  width: 120px;
+  color: #5c5c5c;
+}
+
+
+/* .img{
+  height: 65px;
+  width: 110px;
+} */
+
+.footer{
+  font-size: 100%;
+  background-color: #f2f2f2;
+  height: 250px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #5c5c5c;
+  margin-top: 3%;
+}
+
+
+.finfooter{
+	color: #5c5c5c;
+	text-decoration: none;
+	font-size: 70%;
+	text-align: center;
+  line-height: 10%;
+}
+.copyright{
+	color: #5c5c5c;
+	text-decoration: none;
+	font-size: 70%;
+	text-align: center;
+}
+.star_rate {
+  background-size: calc(4.5 * 20%) 16px;
+}
+/* .container{
+  font-size:70%;
+} */
